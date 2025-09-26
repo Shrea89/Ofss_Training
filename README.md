@@ -61,11 +61,5 @@ A **console-based application** written in Java.
 <img src="Screenshot 2025-09-26 123733.png" alt="Banking Application" width="600"/>
 
 
-<h3>ShopZone Homepage</h3>
-<img src="Screenshot 2025-09-26 095147.png" alt="ShopZone Homepage" width="600"/>
-
-
-<h3>Apple</h3>
-<img src="Screenshot 2025-09-26 095201.png" alt="Apple" width="600"/> 
 
 
