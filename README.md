@@ -1,4 +1,4 @@
-Here are the screenshots of the projects
+
 # 💼 Multi-Project Showcase
 
 This project demonstrates the use of **Spring Boot Microservices** with a **Eureka Server** and a simple **Amazon-like website** where users can choose between two categories: **Apple** and **Samsung**.  
