@@ -46,7 +46,7 @@ A secure banking dashboard with user authentication, transaction history, and ac
 <img src="Screenshot 2025-09-26 095147.png" alt="ShopZone Homepage" width="600"/>
 
 <h3>Samsung</h3>
-<img src="Screenshot 2025-09-26 100254.png" alt="Samsung" width="600"/>
+<img src="Screenshot 2025-09-26 100322.png" alt="Samsung" width="600"/>
 <h3>Apple</h3>
 <img src="Screenshot 2025-09-26 095201.png" alt="Apple" width="600"/> 
 <h3>Banking Application</h3>
